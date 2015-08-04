@@ -1,3 +1,3 @@
 class userkeys {
-include userkeys::thursdw.pp
+include userkeys::thursdw
 }
